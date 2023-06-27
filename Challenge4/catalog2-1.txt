@@ -1,0 +1,13 @@
+D George_Clooney Oceans_Eleven 2001 Brad_Pitt Madonna
+D George_Clooney Up_in_the_Air 2009
+D George_Clooney Batman 1997
+D George_Clooney The_Descendants 2011
+D Brad_Pitt Money_Ball 2011
+D Brad_Pitt Troy 2004
+D Brad_Pitt Seven_Year_in_Tibet 1897
+D Jennifer_Aniston Horrible_Bosses 2011 Hayron_Alvarez Cristy_Charters
+D Jennifer_Aniston Along_Came_Polly ABC
+D Jennifer_Aniston Hes_Just_Not_That_Into_You 2009
+D Barbra_Streisand Yentl 1983
+D Barbra_Streisand Meet_the_Fockers 2004 
+D Barbra_Streisand Funny_Girl 1968 Omar_Shariff
